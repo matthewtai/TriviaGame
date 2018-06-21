@@ -26,7 +26,7 @@ var trivia = {
   },
   options: {
     q1: ['Cubes', 'Medallions', 'Matchsticks', 'Strips'],
-    q2: ['Mustard', 'Honey', 'Lemon Juice', 'Cider vinegar'],
+    q2: ['Mustard', 'Honey', 'Lemon Juice', 'Cider Vinegar'],
     q3: ['Maillard', 'Escoffier', 'Ullmann', 'Luche'],
     q4: ['1959', '1984', '2000', '1900'],
     q5: ['Variant of Tomato','Lobster "liver"','Fish stew with tomatoes','Cooking utensil'],
