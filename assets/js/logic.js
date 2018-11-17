@@ -121,7 +121,7 @@ var trivia = {
         .html('<h3>Thank you for playing!</h3>'+
         '<p>Correct: '+ trivia.correct +'</p>'+
         '<p>Incorrect: '+ trivia.incorrect +'</p>'+
-        '<p>Unaswered: '+ trivia.unanswered +'</p>'+
+        '<p>Unanswered: '+ trivia.unanswered +'</p>'+
         '<p>Please play again!</p>');
       
   
